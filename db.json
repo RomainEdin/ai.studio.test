@@ -1,19 +1,20 @@
 {
-  "topics": [
+  "customers": [
     {
       "id": 1,
-      "title": "to learn angular",
-      "completed": false
+      "first_name": "Romain",
+      "last_name": "Edin",
+      "account_number": "112233445566",
+      "last_cc_digits": "6699",
+      "phone_number": "97502284"
     },
     {
       "id": 2,
-      "title": "to learn french",
-      "completed": true
+      "first_name": "John",
+      "last_name": "X",
+      "account_number": "662233445566",
+      "last_cc_digits": "6655",
+      "phone_number": "97502283"
     },
-    {
-      "id": 3,
-      "title": "to learn some",
-      "completed": false
-    }
   ]
 }
